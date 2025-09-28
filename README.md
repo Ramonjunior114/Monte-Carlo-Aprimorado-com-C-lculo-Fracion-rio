@@ -117,15 +117,6 @@ Testado com dados reais (2020-2024):
 - Requer séries históricas maiores (mínimo 200 pontos)
 - Interpretação do H requer conhecimento estatístico
 
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Por favor:
-1. Fork o projeto
-2. Crie sua feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
-
 ## 📖 Referências
 
 - Mandelbrot, B. (1968). "Fractional Brownian Motions"
