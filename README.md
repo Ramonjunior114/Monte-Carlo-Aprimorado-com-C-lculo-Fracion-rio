@@ -114,35 +114,13 @@ Testado com dados reais (2020-2024):
 - Requer séries históricas maiores (mínimo 200 pontos)
 - Interpretação do H requer conhecimento estatístico
 
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Por favor:
-1. Fork o projeto
-2. Crie sua feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
-
 ## 📖 Referências
 
 - Mandelbrot, B. (1968). "Fractional Brownian Motions"
 - Peters, E. (1994). "Fractal Market Analysis"
 - Tarasov, V. (2019). "On History of Mathematical Economics"
 
-## 📝 Licença
 
-Distribuído sob licença MIT. Veja `LICENSE` para mais informações.
-
-## 🏆 Citação
-
-Se usar este código em pesquisa, por favor cite:
-```bibtex
-@software{monte_carlo_fracionario,
-  title = {Monte Carlo Fracionário para Carteiras},
-  year = {2024},
-  url = {https://github.com/seuusuario/monte-carlo-fracionario}
-}
-```
 
 ---
 
